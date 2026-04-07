@@ -111,5 +111,8 @@ python train.py
 
 ## ⭐ If you like this project
 
+sample output
+<img width="380" height="103" alt="image" src="https://github.com/user-attachments/assets/0a8f68f0-8189-4c8f-afdc-8d75557769f7" />
+
 
 Give it a ⭐ on GitHub!
